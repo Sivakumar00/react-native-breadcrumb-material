@@ -12,6 +12,25 @@
     "react-native": "0.59.10",
     "react-native-gesture-handler": "~1.4.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivakumar00/react-native-breadcrumb-material.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "breadcrumb",
+    "material",
+    "bread crumb",
+    "stepper",
+    "folder path"
+  ],
+  "author": "Sivakumar A <sivadot007@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Sivakumar00/react-native-breadcrumb-material/issues"
+  },
+  "homepage": "https://github.com/Sivakumar00/react-native-breadcrumb-material",
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "babel-jest": "24.9.0",
